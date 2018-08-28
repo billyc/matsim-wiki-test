@@ -1,1 +1,1 @@
-![](https://www.matsim.org/files/logos/blue_72dpi.png)
+![](https://www.matsim.org/files/logos/blue_thumb.png)
