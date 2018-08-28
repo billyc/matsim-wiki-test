@@ -1,0 +1,1 @@
+This page describes how you can model freight more explicitly in MATSim.
