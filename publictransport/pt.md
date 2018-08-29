@@ -201,7 +201,7 @@ different line switches. On the left, you find events produced by the three tran
 and on the right the events of the person-agent. (Click on the image to see a larger 
 version.)
 
-<a href="MATSimPtEvents.png" title="full sized image"><img src="MATSimPtEvents.png" with="200" /></a>
+<a href="publictransport/MATSimPtEvents.png" title="full sized image"><img src="publictransport/MATSimPtEvents.png" with="200" /></a>
 
 ### Example
 
